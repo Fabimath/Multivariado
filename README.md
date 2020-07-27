@@ -19,9 +19,9 @@
 
 ## Evaluación 
 ### Tareas
-
 * [Tarea 1](evaluación/t1.pdf)
 * [Tarea 2](evaluación/t2.pdf)
+
 ### Certamenes
 
 * [Certamen 1 enunciados](evaluación/c1.pdf)
