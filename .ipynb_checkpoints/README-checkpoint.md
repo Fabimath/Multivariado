@@ -12,4 +12,4 @@
 * [Certamen 1 solución](evaluación/c1_res.pdf)
 
 
-[Volver al inicio](https://fabimath.github.io/inicio/)
+[Volver al inicio](https://fabimath.github.io/Fabimath/)
