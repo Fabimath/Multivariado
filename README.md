@@ -4,7 +4,7 @@
 
 ## Evaluación 
 ### Tareas
-* [Tarea 1](evaluación/t1.pdf) - [Tarea 2](evaluación/t2.pdf)
+* [Tarea 1](evaluación/t1.pdf) - [Tarea 2](evaluación/t2.pdf) - [Tarea 3](evaluación/t3.pdf)
 
 ### Certamenes
 
