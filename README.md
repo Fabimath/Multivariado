@@ -11,5 +11,7 @@
 * [Certamen 1 enunciados](evaluación/c1.pdf)
 * [Certamen 1 solución](evaluación/c1_res.pdf)
 
+* [Certamen 2 solución](evaluación/c2_res.pdf)
+
 
 [Volver al inicio](https://fabimath.github.io/Fabimath/)
